@@ -1,6 +1,6 @@
 This is a helm chart repository to deploy `nginx` docker container on k8s.
 
-## Installing Help
+## Installing Helm
 
 We will run tiller locally as it's more secure in production environment.
 
